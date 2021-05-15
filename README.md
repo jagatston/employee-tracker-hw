@@ -4,7 +4,9 @@
   Check out the badges hosted by [shields.io](https://shields.io/).
   
   
-  ## Description 
+  ## Description
+
+  ![Screenshot](public/images/Screenshot.png) 
   
   
   My project was to create a react app that allows a user to see their entire employee database.
