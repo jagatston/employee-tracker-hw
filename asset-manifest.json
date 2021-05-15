@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/employee-tracker-hw/static/css/main.77d3f022.chunk.css",
+    "main.js": "/employee-tracker-hw/static/js/main.78f9ac36.chunk.js",
+    "main.js.map": "/employee-tracker-hw/static/js/main.78f9ac36.chunk.js.map",
+    "runtime-main.js": "/employee-tracker-hw/static/js/runtime-main.1bdb35b8.js",
+    "runtime-main.js.map": "/employee-tracker-hw/static/js/runtime-main.1bdb35b8.js.map",
+    "static/js/2.fce5c18e.chunk.js": "/employee-tracker-hw/static/js/2.fce5c18e.chunk.js",
+    "static/js/2.fce5c18e.chunk.js.map": "/employee-tracker-hw/static/js/2.fce5c18e.chunk.js.map",
+    "index.html": "/employee-tracker-hw/index.html",
+    "static/css/main.77d3f022.chunk.css.map": "/employee-tracker-hw/static/css/main.77d3f022.chunk.css.map",
+    "static/js/2.fce5c18e.chunk.js.LICENSE.txt": "/employee-tracker-hw/static/js/2.fce5c18e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdb35b8.js",
+    "static/js/2.fce5c18e.chunk.js",
+    "static/css/main.77d3f022.chunk.css",
+    "static/js/main.78f9ac36.chunk.js"
+  ]
+}
